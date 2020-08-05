@@ -16,7 +16,7 @@ Sou um FullStack Developer :computer:
 
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, old school e seriados no Netflix
 
-<br/> :email: &nbsp; Entre em contato comigo:  [<img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" alt="Linkedin Badge" style="zoom:15%;" />](https://www.linkedin.com/in/israel-afonso-carvalho-517940175/) [<img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" alt="Gmail Badge" style="zoom:9%;" />](Israel:israelcarvalhodesenvolvedor@gmail.com)
+<br/> :email: &nbsp; Entre em contato comigo:  [Linkedin](https://www.linkedin.com/in/israel-afonso-carvalho-517940175/) [Gmail](Israel:israelcarvalhodesenvolvedor@gmail.com)
 
 # NLW 2 - Proffy
 
@@ -26,7 +26,7 @@ Sou um FullStack Developer :computer:
 
 
 
-![]()<!--
+![](https://github.com/IACarvalho/IACarvalho/blob/master/banner.png?raw=true)<!--
 **IACarvalho/IACarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
