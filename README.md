@@ -26,7 +26,9 @@ Sou um FullStack Developer :computer:
 
 
 
-![](https://github.com/IACarvalho/IACarvalho/blob/master/banner.png?raw=true)<!--
+![](https://github.com/IACarvalho/IACarvalho/blob/master/banner.png?raw=true)
+
+<!--
 **IACarvalho/IACarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
