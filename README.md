@@ -14,7 +14,7 @@ Sou um FullStack Developer :computer:
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, old school e seriados no Netflix
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, games old school e seriados no Netflix
 
 <br/> :email: &nbsp; Entre em contato comigo:  [![Linkedin badge](https://img.shields.io/badge/in-Israel%20Afonso-blue)](https://www.linkedin.com/in/israel-afonso-carvalho-517940175/)
 # NLW 2 - Proffy
@@ -25,4 +25,4 @@ Sou um FullStack Developer :computer:
 
 
 
-![](https://github.com/IACarvalho/IACarvalho/blob/master/banner.png?raw=true)
+![[](https://github.com/IACarvalho/NLW2)](https://github.com/IACarvalho/IACarvalho/blob/master/banner.png?raw=true)
