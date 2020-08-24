@@ -17,12 +17,3 @@ Sou um FullStack Developer :computer:
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Dark Souls, games old school e seriados no Netflix
 
 <br/> :email: &nbsp; Entre em contato comigo:  [![Linkedin badge](https://img.shields.io/badge/in-Israel%20Afonso-blue)](https://www.linkedin.com/in/israel-afonso-carvalho-517940175/)
-# NLW 2 - Proffy
-
-## Drescrição do projeto
-
-<p align="center"> Em época de pandemia, e para valorizar uma das mais nobre profissões, esse projeto vai auxiliar professores a encontrar alunos para lecionar aulas de reforço.</p>
-
-
-
-![[](https://github.com/IACarvalho/NLW2)](https://github.com/IACarvalho/IACarvalho/blob/master/banner.png?raw=true)
