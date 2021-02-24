@@ -6,13 +6,13 @@
 
 ### Olá pessoal 👋
 
-Sou um apaixonado por tecnologia e estudante de ciência da computação, adoro oportunidades de evoluir cada vez mais.
+Sou um apaixonado por programação e adoro resolver problemas usando meus conhecimentos.
 
 Sou um FullStack Developer :computer: 
 
 🦷  &nbsp; Estou trabalhando na **Odontoprev**
 
-<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React, React Native, NOde.JS & Typescript <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript & SQL
 
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias(aprender sobre novas e por em pratica o aprendizado), games souls like, old school, metroidvania e seriados policiais e resolução de mistério. 
 
