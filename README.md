@@ -12,7 +12,7 @@ Trabalho com a manutenção de alguns grandes sistemas asp.net framework 4 usand
 
 🦷  &nbsp; Estou trabalhando na **Odontoprev**
 
-<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React, React Native, Node.JS & Typescript <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: JavaScript, TypeScript, NodeJS, React-Native, SQL Server, HTML5, CSS3 e C#.
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React, React-Native, NodeJS & TypeScript <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: JavaScript, TypeScript, NodeJS, React-Native, SQL Server, HTML5, CSS3 e C#.
 
 
 <br/> 💬  &nbsp; Sobre mim: Sou um apaixonado por jogos, principalmente plataforma oldschool, souls like, RPGs e aventura. Também gosto muito de ler, prinicpalmente ficção ciêntífica. E estou amando essa enchurrada de filmes de super heróis 😁
