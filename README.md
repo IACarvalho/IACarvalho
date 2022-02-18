@@ -2,19 +2,17 @@
 
 
 
-# Israel Afonso de Carvalho
+# Israel Afonso de Carvalho Neto
 
-### Olá pessoal 👋
+### 👋 Olá, meu nome é Israel Afonso! e eu sou um Desenvolvedor Full-Stack 💻
 
+Eu venho atuando profissionalmente como Desenvolvedor Full-Stack pelos últimos 2 anos, nos quais na maioria do tempo foi de forma remota.
+Trabalho com a manutenção de alguns grandes sistemas asp.net framework 4 usando a arquitetura de camadas. Eu também desenvolvo com NodeJS criando REST APIs, com React criando páginas responsavas e criando aplicativos para dispositivos móveis com React-Native.
 
-
-Sou um apaixonado por programação e adoro resolver problemas usando meus conhecimentos.
-
-Sou um FullStack Developer :computer: 
 
 🦷  &nbsp; Estou trabalhando na **Odontoprev**
 
-<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React, React Native, NOde.JS & Typescript <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, JavaScript, Typescript, C# & mycrosoft SQL server
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React, React Native, Node.JS & Typescript <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: JavaScript, TypeScript, NodeJS, React-Native, SQL Server, HTML5, CSS3 e C#.
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -25,7 +23,7 @@ Sou um FullStack Developer :computer:
   <img align="center" height="30" width="40" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias(aprender sobre novas e por em pratica o aprendizado), games souls like, old school, metroidvania e seriados policiais e resolução de mistério. 
+<br/> 💬  &nbsp; Sobre mim: Sou um apaixonado por jogos, principalmente plataforma oldschool, souls like, RPGs e aventura. Também gosto muito de ler, prinicpalmente ficção ciêntífica. E estou amando essa enchurrada de filmes de super heróis 😁
 
   <a href="mailto:israelcarvalhodesenvolvedor@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-afonso-carvalho-517940175/)
