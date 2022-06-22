@@ -10,7 +10,7 @@ Eu venho atuando profissionalmente como Desenvolvedor Full-Stack pelos últimos 
 Trabalho com a manutenção de alguns grandes sistemas asp.net framework 4 usando a arquitetura de camadas. Eu também desenvolvo com NodeJS criando REST APIs, com React criando páginas responsavas e criando aplicativos para dispositivos móveis com React-Native.
 
 
-🦷  &nbsp; Estou trabalhando na **Odontoprev**
+💪️ &nbsp; Estou trabalhando na **JDC**
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React, React-Native, NodeJS & TypeScript <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: JavaScript, TypeScript, NodeJS, React-Native, SQL Server, HTML5, CSS3 e C#.
 
