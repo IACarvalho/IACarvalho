@@ -4,20 +4,20 @@
 
 # Israel Afonso de Carvalho Neto
 
-### 👋 Olá, meu nome é Israel Afonso! Eu sou um Desenvolvedor Full-Stack 💻
+## Hello, my name is Israel Afonso and I'm a Software developer
+Experienced software developer with 4 years in monolithic, RESTful, and MVC projects, proficient in Java, C#, JavaScript, and TypeScript, adept at Spring, .NET, and Express frameworks. Skilled in Docker and Git for efficient deployment and version control. Collaborated in agile environments following Kanban and Scrum methodologies, contributing to code quality through reviews and feedback. Holds a technologist in Analysis and Systems Development from Centro Univeritário Estácio do Ceará, Fortaleza - CE.
 
-Eu venho atuando profissionalmente como Desenvolvedor Full-Stack pelos últimos 2 anos, nos quais na maioria do tempo foi de forma remota.
-Trabalho com a manutenção de alguns grandes sistemas asp.net framework 4 usando a arquitetura de camadas. Eu também desenvolvo com NodeJS criando REST APIs, com React criando páginas responsavas e criando aplicativos para dispositivos móveis com React-Native.
+## Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-
-💪️ &nbsp; Estou trabalhando na **JDC**
-
-<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React, React-Native, NodeJS & TypeScript <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox <br/> :computer: &nbsp; Minha stack: JavaScript, TypeScript, NodeJS, React-Native, SQL Server, HTML5, CSS3 e C#.
-
-
-<br/> 💬  &nbsp; Sobre mim: Sou um apaixonado por jogos, principalmente plataforma oldschool, souls like, RPGs e aventura. Também gosto muito de ler, prinicpalmente ficção ciêntífica. E estou amando essa enchurrada de filmes de super heróis 😁
-
-### Sinta-se a vontade para entrar em contato caso tenha alguma dúvida
+### Feel free to contact me
   <a href="mailto:israelcarvalhodesenvolvedor@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-afonso-carvalho-517940175/)
   
