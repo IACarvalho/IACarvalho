@@ -11,7 +11,7 @@
  - I've worked at [Odontoprev](https://www.odontoprev.com.br/en), [JDC](https://jdctech.com.br) and [Digital Cate 2 U](https://www.digitalcare2u.com.br)
  - I have more experience working with monolithic and MVC architectures
  - I graduated as a technologist in systems analysis and development at **Centro Universitário Estácio do Ceará**
- - Learning **Flutter**
+ - Learning **Spring**
  - I'm into `Java`, `C#`, `NodeJS` and `React`
  - Feel free to contact me
  - I'm into tech, games and geek culture
